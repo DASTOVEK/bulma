@@ -1,0 +1,13 @@
+name: bulma
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/7308acd9-35f8-4368-98b4-b05144bd1ffc
+description: Modern CSS framework based on Flexbox
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
